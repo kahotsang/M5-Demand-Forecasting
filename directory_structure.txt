@@ -1,0 +1,7 @@
+.
+./raw_data
+./__pycache__
+./processed_data
+./logs
+./model
+./submission
